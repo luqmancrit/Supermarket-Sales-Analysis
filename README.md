@@ -29,6 +29,11 @@ Hi there! So this is a supermarket sales between January to March on 2019 analys
 ![image](https://user-images.githubusercontent.com/79583429/155090066-117b8049-8e5a-4d5e-b1db-8989e87a6960.png)
 - Checking any null values from dataset in MySQL
 - Since there is no null values from the dataset, we can now consider the data is clean.
+- "the cleaning part u only do this................ seriously...."
+![image](https://user-images.githubusercontent.com/79583429/155093410-e10ca83e-6205-4746-b93d-6acba78e1517.png)
+- yeah the dataset is quite small and beginner friendly for myself hehehe
+![image](https://user-images.githubusercontent.com/79583429/155093723-21bf962c-7b49-4d56-b6e3-5a70aca707b4.png)
+
 3. Data Visualization: Microsoft PowerBI
 - Creating Base Measures (Total Profit, Total Revenue, Total Tax, Revenue %, Profit Margin %)
 - Visualize Data
