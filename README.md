@@ -1,2 +1,2 @@
 # Supermarket-Sales-Analysis
-This is supermarket sales between January to March on 2019 analysis by using MySQL and Microsoft PowerBi. Data source are taken from Kagle. 
+This is supermarket sales analysis between January to March on 2019 conducted using MySQL and Microsoft PowerBi tools. Data source are taken from Kaggle. 
