@@ -1,5 +1,6 @@
-# Supermarket-Sales-Analysis
+# Supermarket Sales Analysis
 
+Here little snippet of the projects:
 ![supermarket_sales_analysis](https://user-images.githubusercontent.com/79583429/155082939-a4226adb-7b6f-4990-a0c5-52a103305360.JPG)
 - Supermarket sales report from Microsoft PowerBI
 
