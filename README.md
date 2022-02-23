@@ -1,11 +1,11 @@
 # Supermarket Sales Analysis
 
 Here little snippet of the projects:
-![supermarket_sales_analysis](https://user-images.githubusercontent.com/79583429/155082939-a4226adb-7b6f-4990-a0c5-52a103305360.JPG)
+![image](https://user-images.githubusercontent.com/79583429/155277156-f778f0d8-aea3-4daa-917a-49565f76bc25.png)
 - Supermarket sales report from Microsoft PowerBI
 
-![image](https://user-images.githubusercontent.com/79583429/155087079-f9e9b579-aca8-4dc6-8da3-32ea055ef529.png)
-- Health & Beauty product line sales report
+![image](https://user-images.githubusercontent.com/79583429/155277244-4ce48736-b233-4829-9e33-27373b8499fb.png)
+- Electronics Accessories product line insights report
 
 # Introduction
 Hi there! So this is a supermarket sales between January to March on 2019 analysis that I've conducted using MySQL and Microsoft PowerBI tool. The dataset is in a CSV file and are taken from Kaggle. The sales report and dataset link are provided below.
@@ -38,6 +38,6 @@ Hi there! So this is a supermarket sales between January to March on 2019 analys
 ![image](https://user-images.githubusercontent.com/79583429/155093723-21bf962c-7b49-4d56-b6e3-5a70aca707b4.png)
 4. Data modelling does not included in the steps, since the dataset only have one table.
 5. Data Visualization: Microsoft PowerBI
-- Creating Base Measures (Total Profit, Total Revenue, Total Tax, Revenue %, Profit Margin %)
+- Creating Base Measures (Total Profit, Total Revenue, Sales Qty, Average Customer Rating, Revenue %, Profit Margin %)
 - Visualize Data
 - Make conlusion from report
